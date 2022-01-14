@@ -1,0 +1,23 @@
+{
+  "name": "linda-portfolio-part1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keza681/linda-portfolio-part1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keza681/linda-portfolio-part1/issues"
+  },
+  "homepage": "https://github.com/keza681/linda-portfolio-part1#readme",
+  "devDependencies": {
+    "hint": "^6.1.9"
+  }
+}
