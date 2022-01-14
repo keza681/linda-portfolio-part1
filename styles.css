@@ -24,9 +24,9 @@ body {
   margin: 25px;
 }
 
-.logo-container p {
-  color: rgb(15, 15, 204);
-  font-weight: 600;
+.logo-container a {
+  color: #6070FF;
+  font-weight: 700;
 }
 
 .main-body {
@@ -35,19 +35,27 @@ body {
 }
 
 .icons-title h3 {
-  font-size: 18px;
+  font-size: 16px;
   margin-top: 10px;
-  font-weight: 300;
-  color: rgb(11, 66, 247);
+  font-weight: 500;
+  color: #7F8CFF;
+  line-height: 24px;
 }
 
-.paragraph h1 {
-  color: rgb(17, 17, 94);
+.paragraph h2 {
+  color: #172B4D;
   margin-bottom: 15px;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 52px;
+
 }
 
 .paragraph p {
-  line-height: 28px;
+  line-height: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #344563;
 }
 
 .pictures ul {
@@ -61,10 +69,14 @@ body {
 }
 
 i {
-  color: rgb(32, 28, 87);
+  color: #505F79;
   font-size: 20px;
 }
 
 .bars-container i {
-  color: rgb(13, 13, 197);
+  color: #6070FF;
+}
+
+.logo-container a {
+  text-decoration: none;
 }

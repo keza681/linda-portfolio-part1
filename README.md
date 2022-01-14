@@ -12,17 +12,17 @@ I'm working on the portofolio project. This is the first part.
 -CSS
 -FIGMA
 
-### 👤 Author
+## 👤 Author
 
 - GitHub: [@githubhandle](https://github.com/keza681)
 - Twitter: [@twitterhandle](https://twitter.com/LKeza19)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/linda-keza-a10150218/)
 
-#### Show your support
+## Show your support
 
 Give a ⭐️ if you like this project!
 
 
-##### 📝 License
+## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
