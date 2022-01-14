@@ -38,11 +38,11 @@ body {
   font-size:18px;
   margin-top: 10px;
   font-weight: 300;
-  
+  color:rgb(11, 66, 247);
 }
 
 .paragraph h1{
-  color: rgb(30, 30, 78);
+  color: rgb(17, 17, 94);
   margin-bottom:15px;
 }
 
@@ -64,4 +64,7 @@ body {
   font-size: 20px;
 }
 
+.bars-container i {
+  color: rgb(13, 13, 197);
+}
 
