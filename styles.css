@@ -25,8 +25,9 @@ body {
 }
 
 .logo-container a {
-  color: #6070FF;
+  color: #6070ff;
   font-weight: 700;
+  text-decoration: none;
 }
 
 .main-body {
@@ -38,17 +39,16 @@ body {
   font-size: 16px;
   margin-top: 10px;
   font-weight: 500;
-  color: #7F8CFF;
+  color: #7f8cff;
   line-height: 24px;
 }
 
 .paragraph h2 {
-  color: #172B4D;
+  color: #172b4d;
   margin-bottom: 15px;
   font-size: 40px;
   font-weight: 700;
   line-height: 52px;
-
 }
 
 .paragraph p {
@@ -69,14 +69,10 @@ body {
 }
 
 i {
-  color: #505F79;
+  color: #505f79;
   font-size: 20px;
 }
 
 .bars-container i {
-  color: #6070FF;
-}
-
-.logo-container a {
-  text-decoration: none;
+  color: #6070ff;
 }
