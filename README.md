@@ -16,7 +16,7 @@ I'm working on the portofolio project. This is the first part.
 
 - GitHub: [@githubhandle](https://github.com/keza681)
 - Twitter: [@twitterhandle](https://twitter.com/LKeza19)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/linda-keza-a10150218/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/linda-keza/)
 
 ## Show your support
 
